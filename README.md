@@ -1,6 +1,8 @@
 # Shopr
+---
 
 This program is a simple django application. It's a part of django my learning material. It is a simple online marketplace.
+
 ---
 
 1. Establish Virtual Environment
